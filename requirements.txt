@@ -1,0 +1,15 @@
+# Core
+opencv-python>=4.7.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Optional / dev
+matplotlib>=3.7.0
+jupyterlab>=4.0.0
+
+# If you use tensorflow or torch instead of sklearn:
+# tensorflow>=2.12.0
+# torch>=2.2.0
